@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Context RAG",
+  "description": "A powerful client-side RAG (Retrieval-Augmented Generation) system. Upload your text documents and chat with them instantly using Gemini 3 Pro's massive context window.",
+  "requestFramePermissions": []
+}
